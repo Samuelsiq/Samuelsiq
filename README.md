@@ -1,9 +1,9 @@
 ## Public Information 
-------------
+
 My name is Samuel Siqueira. I currently live in Maria da Fé, Brazil.
 
 ## Detailed information
-_____
+
 <ul>
     <li><strong>Name</strong>: Samuel S. Ferreira</li>
     <li><strong>Age</strong>: 20</li>
