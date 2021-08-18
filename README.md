@@ -4,6 +4,8 @@ My name is Samuel Siqueira. I currently live in Maria da Fé, Brazil.
 
 ## Detailed information
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuelsiq&theme=omni&show_icons=true)
+
 <ul>
     <li><strong>Name</strong>: Samuel S. Ferreira</li>
     <li><strong>Age</strong>: 20</li>
