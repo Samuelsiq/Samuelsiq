@@ -16,4 +16,4 @@ My name is Samuel Siqueira. I currently live in Maria da Fé, Brazil.
 <ul> 
 
 ##
-![Snake animation](https://github.com/Samuelsiq/Samuelsiq/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Samuelsiq/Samuelsiq/blob/output/github-contribution-grid-snake.svg) -->
