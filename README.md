@@ -12,3 +12,6 @@ My name is Samuel Siqueira. I currently live in Maria da Fé, Brazil.
     <li><strong>University</strong>: <a href="https://unifei.edu.br">Federal University of Itajubá</a> - Computer Engineering
     </li>
 <ul> 
+
+##
+![Snake animation](https://github.com/Samuelsiq/Samuelsiq/blob/output/github-contribution-grid-snake.svg)
