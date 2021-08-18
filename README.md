@@ -9,8 +9,6 @@ My name is Samuel Siqueira. I currently live in Maria da Fé, Brazil.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelsiq&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
---
-
 <ul>
     <li><strong>Name</strong>: Samuel S. Ferreira</li>
     <li><strong>Age</strong>: 20</li>
