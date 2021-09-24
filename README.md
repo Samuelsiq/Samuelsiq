@@ -12,7 +12,7 @@ My name is Samuel Siqueira. I currently live in Maria da Fé, Brazil.
 
 <ul>
     <li><strong>Name</strong>: Samuel S. Ferreira</li>
-    <li><strong>Age</strong>: 20</li>
+    <li><strong>Age</strong>: 21</li>
     <li><strong>Living in</strong>: Maria da Fé, Brazil</li>
     <li><strong>Stack</strong>: Git - HTML - CSS - JavaScript - Python - C/C++ - Java/Maven - PHP</li>
     <li><strong>University</strong>: <a href="https://unifei.edu.br">Federal University of Itajubá</a> - Computer Engineering
